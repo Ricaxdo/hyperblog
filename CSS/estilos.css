@@ -2,7 +2,7 @@ body
 {
     color: #333;
     text-align: center;
-    font-family: "Curier";
+    font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -15,13 +15,6 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5cm;
-}
-
-#cabecera #tagline
-{
-    margin: 0 0 0 1cm;
-    font-weight: bold;
-    font-size: 0.8cm;
 }
 
 #container
